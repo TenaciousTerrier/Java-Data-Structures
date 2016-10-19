@@ -6,6 +6,7 @@ I analyze Facebook social network data from the University of California: San Di
 Project Information and Data
 --------------------------------
 All information and data can be obtained from the Capstone project page:
+
 https://www.coursera.org/learn/intermediate-programming-capstone/
 
 Java Files
