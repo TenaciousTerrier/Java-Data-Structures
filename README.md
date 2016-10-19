@@ -15,7 +15,7 @@ to run various algorithms on the graph.
 
 __2. CapNode:__ A class that stores information about a specific node in the graph. 
 
-__3.__ CapEdge: File implements the CapEdge class which contains information about a connection between 2 specific CapNodes in the graph.
+__3. CapEdge:__ File implements the CapEdge class which contains information about a connection between 2 specific CapNodes in the graph.
 
 
 Project Report
