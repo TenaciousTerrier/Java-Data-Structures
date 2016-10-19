@@ -1,4 +1,4 @@
-Java Data Structures Capstone Project: Facebook Social Network Analysis of University of California: San Diego
+Java Data Structures Capstone Project: Facebook Social Network Analysis
 ----------------------------
 This repository contains my project code and written report for the Java Data Structures Coursera specialization. In the project, 
 I analyze Facebook social network data from the University of California: San Diego. 
