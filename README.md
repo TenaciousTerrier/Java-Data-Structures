@@ -10,12 +10,12 @@ https://www.coursera.org/learn/intermediate-programming-capstone/
 
 Java Files
 -----------------
-1. CapGraph: The purpose of this java file is to implement the class to read and store the social network data as nodes and edges, and 
+__1. CapGraph:__ The purpose of this java file is to implement the class to read and store the social network data as nodes and edges, and 
 to run various algorithms on the graph. 
 
-2. CapNode: A class that stores information about a specific node in the graph. 
+__2. CapNode:__ A class that stores information about a specific node in the graph. 
 
-3. CapEdge: File implements the CapEdge class which contains information about a connection between 2 specific CapNodes in the graph.
+__3.__ CapEdge: File implements the CapEdge class which contains information about a connection between 2 specific CapNodes in the graph.
 
 
 Project Report
